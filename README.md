@@ -16,9 +16,15 @@ The outputs of the code are illustrated in figures 1 through 5, showcasing vario
 <p align="center">
         <img src="https://github.com/sseref64/Feature-detection-of-a-RGB-Image-Process/blob/main/img/Figure%201.png" width="600" height="400">
         <br>
-        <em>**Figure 1**: Original Image as Gray Scale</em>
+        <em>Figure 1: Original Image as Gray Scale</em>
     </p>
 ! [](img/Figure 1.png)
+
+<p align="center">
+        <img src="[https://github.com/Burakzdd/K-Means-Clustering-CPP/blob/main/img/fig4.jpg](https://github.com/sseref64/Feature-detection-of-a-RGB-Image-Process/blob/main/img/Figure%202.png)" width="600" height="400">
+        <br>
+        <em>Figure 2: Canny Map Image</em>
+    </p>
 - **Figure 2**: Canny Map Image
 - **Figure 3**: Line Detection Detected
 - **Figure 4**: Scaled Image
