@@ -13,8 +13,12 @@ The `LineDetection` class specializes in detecting line features within images. 
 The `CornerDetection` class focuses on identifying corner features within images. Like the `LineDetection` class, it derives from the `Detection` class and includes feature matrices, a grayscale-converted image matrix, and a result matrix. This class is equipped to implement vertices definitions according to Doxygen documentation standards.
 
 The outputs of the code are illustrated in figures 1 through 5, showcasing various stages of the feature detection process:
-
-! [**Figure 1**: Original Image as Gray Scale](img/Figure 1.png)
+<p align="center">
+        <img src="https://github.com/sseref64/Feature-detection-of-a-RGB-Image-Process/blob/main/img/Figure%201.png" width="600" height="400">
+        <br>
+        <em>**Figure 1**: Original Image as Gray Scale</em>
+    </p>
+! [](img/Figure 1.png)
 - **Figure 2**: Canny Map Image
 - **Figure 3**: Line Detection Detected
 - **Figure 4**: Scaled Image
