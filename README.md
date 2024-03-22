@@ -26,18 +26,37 @@ The outputs of the code are illustrated in figures 1 through 5, showcasing vario
     </p>
     
 <p align="center">
-        <img src="[https://github.com/Burakzdd/K-Means-Clustering-CPP/blob/main/img/fig4.jpg](https://github.com/sseref64/Feature-detection-of-a-RGB-Image-Process/blob/main/img/Figure%203.png)" width="600" height="400">
+        <img src="https://github.com/sseref64/Feature-detection-of-a-RGB-Image-Process/blob/main/img/Figure%203.png" width="600" height="400">
         <br>
         <em>Figure 3: Line Detection Detected</em>
     </p>
 
-- **Figure 3**: Line Detection Detected
-- **Figure 4**: Scaled Image
-- **Figure 5**: Corner Detection Detected Image
+<p align="center">
+        <img src="https://github.com/sseref64/Feature-detection-of-a-RGB-Image-Process/blob/main/img/Figure%204.png" width="600" height="400">
+        <br>
+        <em>Figure 4: Scaled Image</em>
+    </p>
+
+<p align="center">
+        <img src="https://github.com/sseref64/Feature-detection-of-a-RGB-Image-Process/blob/main/img/Figure%205.png" width="600" height="400">
+        <br>
+        <em>Figure 5: Corner Detection Detected Image</em>
+    </p>
+
 
 This project encompasses a hierarchical structure, as depicted in figures 6 and 7, ranging from general image processing to feature detection:
 
-- **Figure 6**: Class Hierarchy and Inheritance
-- **Figure 7**: Main Hierarchy
+<p align="center">
+        <img src="https://github.com/sseref64/Feature-detection-of-a-RGB-Image-Process/blob/main/img/Figure%206.png" height="400">
+        <br>
+        <em>Figure 6: Class Hierarchy and Inheritance</em>
+    </p>
+
+<p align="center">
+        <img src="https://github.com/sseref64/Feature-detection-of-a-RGB-Image-Process/blob/main/img/Figure%207.png" width="600" height="400">
+        <br>
+        <em>Figure 7: Main Hierarchy</em>
+    </p>
+
 
 These descriptions encapsulate the primary functionalities of each file and class. For more detailed explanations of individual functions within each file and class, refer to the code documentation. Additionally, an UML diagram, depicted in figure 7, provides a visual representation of the project's structure and relationships.
