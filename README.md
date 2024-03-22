@@ -14,7 +14,7 @@ The `CornerDetection` class focuses on identifying corner features within images
 
 The outputs of the code are illustrated in figures 1 through 5, showcasing various stages of the feature detection process:
 
-- ! [**Figure 1**: Original Image as Gray Scale](https://github.com/sseref64/Feature-detection-of-a-RGB-Image-Process/blob/main/img/Figure%201.png)
+! [**Figure 1**: Original Image as Gray Scale](https://github.com/sseref64/Feature-detection-of-a-RGB-Image-Process/blob/main/img/Figure%201.png)
 - **Figure 2**: Canny Map Image
 - **Figure 3**: Line Detection Detected
 - **Figure 4**: Scaled Image
